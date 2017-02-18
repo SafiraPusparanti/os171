@@ -1,0 +1,12 @@
+w01-170214-13-LR-About: License and Copyright, From: Lecturer
+w01-170214-13-LR-About: License and Copyright, From: Lecturer
+w01-170214-14-LR-About: License and Copyright, From: Lecturer
+w01-170214-14-LR-About: License and Copyright, From: Lecturer
+w01-170216-13-LR-About: Linux Scripting, From: Lecturer
+w01-170216-13-LR-About: Linux Scripting, From: Lecturer
+w01-170216-14-LR-About: Linux Scripting, From: Lecturer
+w01-170216-14-LR-About: Linux Scripting, From: Lecturer
+w01-170217-16-PS-About: CLI, Git, and Scripting
+w01-170217-16-PS-About: CLI, Git, and Scripting
+w01-170217-17-PS-About: CLI, Git, and Scripting
+w01-170217-17-PS-About: CLI, Git, and Scripting
