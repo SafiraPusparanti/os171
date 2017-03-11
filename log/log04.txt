@@ -1,0 +1,12 @@
+w04-170307-13-LR-About: Unix I/O Programming, From: Lecturer
+w04-170307-13-LR-About: Unix I/O Programming, From: Lecturer
+w04-170307-14-LR-About: Global/Local Variable Address & Pointer, From: Lecturer
+w04-170307-14-LR-About: Pointer, From: Lecturer
+w04-170308-14-PS-About: Global/Local Variable Address, Pointer & I/O Process
+w04-170308-14-PS-About: Global/Local Variable Address, Pointer & I/O Process
+w04-170309-13-LR-About: Pointer Exercise, From: Lecturer
+w04-170309-13-LR-About: Pointer Exercise, From: Lecturer
+w04-170309-14-LR-About: Pointer Exercise, From: Lecturer
+w04-170309-14-LR-About: Pointer Exercise, From: Lecturer
+w04-170311-01-PS-About: Global/Local Variable Address, Pointer & I/O Process
+w04-170311-01-PS-About: Global/Local Variable Address, Pointer & I/O Process
