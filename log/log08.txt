@@ -1,0 +1,13 @@
+
+w08-170425-13-LR-About: Sockets, From: Lecturer
+w08-170425-13-LR-About: Sockets, From: Lecturer
+w08-170425-14-LR-About: Sockets, From: Lecturer
+w08-170425-14-LR-About: Sockets Exercise, From: Lecturer
+w08-170427-13-LR-About: Sockets, From: Lecturer
+w08-170427-13-LR-About: Sockets Exercise, From: Lecturer
+w08-170427-14-LR-About: Sockets Exercise, From: Lecturer
+w08-170427-14-LR-About: Sockets Exercise, From: Lecturer
+w08-170428-12-PS-About: Sockets
+w08-170428-13-PS-About: Sockets
+w08-170429-22-PS-About: Sockets
+w08-170429-23-PS-About: Sockets
