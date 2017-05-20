@@ -1,0 +1,7 @@
+Akun GitHub: SafiraPusparanti
+URL ulasan: https://safirapus.blogspot.co.id/2017/05/pointers-to-pointers-in-cc-review.html
+URL video: https://youtu.be/d3kd5KbGB48
+Durasi video: 9:20
+Pemetaan konten: week04
+Tanggal submisi revisi pertama: 20 Mei 2017
+Tanggal submisi revisi terakhir: 20 Mei 2017
