@@ -1,0 +1,13 @@
+w10-170509-13-LR-About: Cloud Computing, From: Lecturer
+w10-170509-13-LR-About: Cloud Computing, From: Lecturer
+w10-170509-14-LR-About: Cloud Computing, From: Lecturer
+w10-170509-14-LR-About: Cloud Computing, From: Lecturer
+w10-170511-13-LR-About: Exercise, From: Lecturer
+w10-170511-13-LR-About: Exercise, From: Lecturer
+w10-170511-14-LR-About: Exercise, From: Lecturer
+w10-170511-14-LR-About: Exercise, From: Lecturer
+w10-170520-21-PS-About: Lab Task week09 and week10 (Ulasan)
+w10-170520-21-PS-About: Lab Task week09 and week10 (Ulasan)
+w10-170520-22-PS-About: Lab Task week09 and week10 (Ulasan)
+w10-170520-22-PS-About: Lab Task week09 and week10 (Ulasan)
+w10-170520-23-PS-About: Lab Task week09 and week10 (Ulasan)
